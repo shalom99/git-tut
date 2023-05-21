@@ -1,1 +1,2 @@
-let banana = "test"
+console.log('index.js');
+console.log("version2 update");
